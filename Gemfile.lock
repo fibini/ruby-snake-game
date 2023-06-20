@@ -1,0 +1,12 @@
+GEM
+  specs:
+    ruby2d (0.12.1)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  ruby2d
+
+BUNDLED WITH
+   2.3.22
